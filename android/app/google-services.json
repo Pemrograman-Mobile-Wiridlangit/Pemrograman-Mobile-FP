@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "176019478191",
+    "project_id": "pemrograman-mobile-fp",
+    "storage_bucket": "pemrograman-mobile-fp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176019478191:android:14702248cb7768fb71e65a",
+        "android_client_info": {
+          "package_name": "com.pemrograman.mobile.pemrograman_mobile_modul_4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaUyqjjUWqfXqdzH5A2JjWUM811YyrITc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176019478191:android:ee67e4d8629828f471e65a",
+        "android_client_info": {
+          "package_name": "com.wiridlangit.pemrograman_mobile_fp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaUyqjjUWqfXqdzH5A2JjWUM811YyrITc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
